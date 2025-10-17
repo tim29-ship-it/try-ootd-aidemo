@@ -1,0 +1,10 @@
+# Python
+backend/__pycache__/
+backend/.venv/
+backend/.mypy_cache/
+
+# Node/Extension
+node_modules/
+extension/dist/
+popup/dist/
+*.log
